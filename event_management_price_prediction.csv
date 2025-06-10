@@ -1,0 +1,1001 @@
+Event_ID,Event_Type,Location,Guests_Count,Duration_Hours,Catering_Type,Entertainment,Season,Venue_Rating,Total_Price
+1,Birthday,Kolkata,111,10,Basic,Magician,Summer,3.7,52478
+2,Concert,Pune,76,8,Premium,DJ,Autumn,3.8,1058933
+3,Conference,Pune,358,7,Basic,DJ,Monsoon,4.1,484373
+4,Birthday,Jaipur,447,5,Premium,Comedian,Spring,4.9,481866
+5,Wedding,Mumbai,54,9,Premium,Magician,Winter,4.6,618930
+6,Concert,Delhi,440,2,Basic,Live Band,Autumn,4.3,5465777
+7,Birthday,Pune,109,6,Standard,Magician,Autumn,3.5,58496
+8,Birthday,Goa,330,4,Standard,DJ,Autumn,4.8,232320
+9,Corporate,Delhi,161,3,Standard,Magician,Spring,4.4,238966
+10,Concert,Bangalore,393,3,Standard,Comedian,Monsoon,3.5,3961440
+11,Birthday,Hyderabad,72,9,Premium,Comedian,Spring,4.9,77616
+12,Birthday,Chennai,391,9,Premium,Comedian,Monsoon,4.5,316710
+13,Wedding,Goa,376,7,Basic,Live Band,Spring,4.7,2807884
+14,Concert,Kolkata,401,4,Premium,Magician,Summer,3.7,5687516
+15,Corporate,Delhi,428,6,Basic,DJ,Monsoon,4.2,395472
+16,Concert,Kolkata,90,9,Basic,DJ,Autumn,4.6,1012000
+17,Birthday,Mumbai,218,6,Standard,None,Winter,4.4,166261
+18,Concert,Ahmedabad,395,3,Standard,Comedian,Spring,4.4,6117760
+19,Conference,Pune,129,2,Premium,Comedian,Spring,5.0,425700
+20,Conference,Ahmedabad,463,9,Premium,Magician,Summer,4.6,1224635
+21,Wedding,Delhi,435,11,Standard,DJ,Summer,4.7,2998600
+22,Wedding,Mumbai,332,7,Premium,None,Autumn,4.1,2268666
+23,Birthday,Chennai,144,10,Basic,Live Band,Monsoon,3.7,69264
+24,Wedding,Kolkata,282,11,Premium,Magician,Winter,3.6,2529540
+25,Concert,Ahmedabad,444,11,Basic,None,Winter,4.1,5258933
+26,Corporate,Hyderabad,63,11,Premium,Magician,Winter,3.7,116161
+27,Wedding,Pune,327,5,Premium,Comedian,Summer,3.6,2354400
+28,Corporate,Delhi,422,10,Basic,None,Winter,4.0,487644
+29,Wedding,Kolkata,140,5,Basic,Live Band,Spring,4.2,934266
+30,Wedding,Ahmedabad,549,11,Premium,Live Band,Autumn,3.6,4282200
+31,Birthday,Hyderabad,328,10,Basic,Magician,Autumn,4.9,205364
+32,Wedding,Kolkata,85,11,Premium,None,Autumn,4.5,637500
+33,Birthday,Bangalore,233,7,Basic,Live Band,Monsoon,4.5,136305
+34,Wedding,Mumbai,63,6,Standard,None,Winter,3.9,425880
+35,Concert,Pune,362,6,Standard,DJ,Spring,4.5,5256240
+36,Conference,Chennai,481,8,Basic,Live Band,Monsoon,3.9,731600
+37,Conference,Delhi,262,5,Standard,DJ,Winter,3.8,569483
+38,Birthday,Bangalore,562,5,Premium,DJ,Winter,4.0,535773
+39,Birthday,Pune,473,4,Premium,Magician,Autumn,4.7,426094
+40,Corporate,Kolkata,126,8,Standard,DJ,Winter,4.4,211411
+41,Birthday,Delhi,100,4,Standard,Comedian,Summer,4.5,72000
+42,Conference,Ahmedabad,235,8,Basic,Comedian,Winter,3.8,464360
+43,Birthday,Hyderabad,371,5,Premium,Comedian,Winter,4.7,453362
+44,Wedding,Ahmedabad,501,10,Standard,DJ,Winter,3.5,3343340
+45,Concert,Pune,73,7,Standard,Magician,Winter,4.3,1251414
+46,Corporate,Chennai,169,8,Standard,Comedian,Autumn,4.7,254176
+47,Wedding,Mumbai,327,11,Standard,Comedian,Spring,4.1,2359631
+48,Wedding,Delhi,452,4,Basic,Comedian,Winter,3.7,2898826
+49,Birthday,Jaipur,450,6,Premium,Magician,Autumn,3.9,336374
+50,Conference,Pune,247,11,Basic,Magician,Monsoon,4.7,400510
+51,Concert,Delhi,559,5,Basic,Magician,Monsoon,4.9,6299930
+52,Birthday,Delhi,413,3,Premium,Live Band,Summer,4.4,393726
+53,Concert,Pune,492,11,Standard,Magician,Winter,4.6,9022624
+54,Birthday,Mumbai,67,8,Premium,Magician,Spring,3.7,52265
+55,Birthday,Mumbai,488,11,Basic,DJ,Winter,3.5,271382
+56,Conference,Goa,461,9,Premium,Comedian,Spring,3.7,1125762
+57,Corporate,Bangalore,174,3,Premium,None,Autumn,3.5,203000
+58,Birthday,Jaipur,151,4,Standard,Magician,Winter,4.8,144476
+59,Conference,Jaipur,465,7,Standard,Magician,Monsoon,4.7,904796
+60,Concert,Pune,237,5,Standard,DJ,Autumn,4.8,3336960
+61,Birthday,Mumbai,420,6,Standard,DJ,Summer,4.6,283360
+62,Conference,Bangalore,321,6,Premium,Magician,Autumn,3.6,664470
+63,Concert,Jaipur,540,11,Standard,Comedian,Spring,3.8,7223040
+64,Birthday,Kolkata,145,10,Premium,Live Band,Autumn,4.8,150800
+65,Wedding,Goa,543,2,Standard,None,Spring,4.2,3344880
+66,Wedding,Pune,66,7,Premium,DJ,Summer,4.2,508200
+67,Wedding,Delhi,465,11,Basic,Live Band,Autumn,4.8,3224000
+68,Birthday,Kolkata,60,4,Standard,DJ,Winter,3.9,44616
+69,Concert,Delhi,43,7,Basic,Live Band,Summer,4.3,534155
+70,Concert,Chennai,584,6,Basic,Magician,Winter,5.0,9700888
+71,Conference,Bangalore,90,11,Basic,Magician,Spring,4.2,159390
+72,Birthday,Goa,291,3,Standard,DJ,Spring,3.6,169012
+73,Corporate,Bangalore,141,5,Standard,Magician,Winter,4.9,275438
+74,Conference,Pune,71,10,Premium,Live Band,Monsoon,4.2,174447
+75,Wedding,Bangalore,90,8,Premium,Live Band,Monsoon,4.0,702000
+76,Concert,Jaipur,489,5,Basic,Live Band,Autumn,4.8,6780800
+77,Corporate,Goa,97,6,Basic,Magician,Winter,4.4,141792
+78,Wedding,Jaipur,450,4,Premium,Magician,Winter,4.2,4709250
+79,Conference,Kolkata,417,10,Premium,Magician,Summer,4.2,1007055
+80,Birthday,Chennai,446,8,Basic,DJ,Monsoon,4.5,220770
+81,Concert,Goa,75,4,Basic,Magician,Autumn,3.7,709166
+82,Conference,Hyderabad,190,6,Premium,DJ,Autumn,3.5,365750
+83,Birthday,Goa,190,6,Premium,None,Monsoon,4.9,139650
+84,Corporate,Delhi,139,9,Standard,None,Monsoon,3.7,123432
+85,Wedding,Goa,229,3,Basic,Magician,Winter,3.7,1407459
+86,Concert,Pune,557,10,Premium,DJ,Summer,3.6,7352400
+87,Birthday,Goa,155,2,Basic,Live Band,Autumn,4.5,100750
+88,Birthday,Mumbai,55,3,Standard,Comedian,Summer,3.6,31680
+89,Corporate,Jaipur,91,4,Premium,Comedian,Autumn,3.5,127400
+90,Conference,Mumbai,332,4,Basic,None,Summer,3.9,431600
+91,Concert,Jaipur,224,11,Basic,Live Band,Monsoon,4.4,2562560
+92,Concert,Delhi,560,4,Standard,Magician,Monsoon,4.9,7573440
+93,Conference,Jaipur,148,10,Standard,Live Band,Monsoon,3.8,263203
+94,Wedding,Hyderabad,503,2,Premium,Live Band,Autumn,3.5,3814416
+95,Corporate,Ahmedabad,183,7,Standard,Live Band,Spring,4.7,327984
+96,Conference,Mumbai,336,4,Standard,None,Spring,3.8,561792
+97,Wedding,Mumbai,360,5,Standard,DJ,Spring,3.7,2148960
+98,Corporate,Kolkata,138,3,Standard,Magician,Winter,4.2,231067
+99,Birthday,Hyderabad,478,2,Standard,DJ,Autumn,4.0,280426
+100,Corporate,Goa,179,6,Standard,DJ,Summer,3.5,183773
+101,Wedding,Goa,503,10,Basic,DJ,Summer,4.0,2459111
+102,Birthday,Chennai,596,9,Premium,DJ,Summer,4.0,437066
+103,Birthday,Jaipur,77,2,Premium,Magician,Winter,4.4,84417
+104,Conference,Hyderabad,532,3,Standard,None,Winter,4.7,1300208
+105,Concert,Ahmedabad,93,5,Standard,None,Monsoon,4.3,959759
+106,Corporate,Jaipur,537,10,Basic,Comedian,Winter,3.6,670176
+107,Conference,Bangalore,441,2,Basic,Magician,Autumn,4.8,811439
+108,Wedding,Kolkata,173,6,Standard,Comedian,Summer,4.5,1245600
+109,Wedding,Jaipur,374,5,Basic,Live Band,Winter,5.0,3511444
+110,Corporate,Hyderabad,542,7,Basic,Magician,Spring,4.7,716102
+111,Concert,Pune,249,7,Premium,Live Band,Autumn,4.8,5179200
+112,Corporate,Pune,187,2,Premium,Comedian,Autumn,4.5,336600
+113,Corporate,Goa,408,4,Premium,None,Summer,4.8,652800
+114,Birthday,Chennai,400,8,Basic,Live Band,Autumn,4.9,283111
+115,Corporate,Goa,481,11,Basic,Comedian,Winter,4.4,733685
+116,Corporate,Jaipur,321,8,Standard,Comedian,Summer,4.5,462240
+117,Wedding,Kolkata,311,5,Basic,Live Band,Winter,4.9,2861545
+118,Corporate,Pune,108,6,Basic,DJ,Summer,4.0,105600
+119,Birthday,Pune,190,6,Basic,Magician,Winter,4.7,148337
+120,Birthday,Jaipur,127,4,Basic,Comedian,Winter,4.8,105664
+121,Concert,Delhi,277,3,Premium,DJ,Spring,4.4,4915826
+122,Concert,Jaipur,320,3,Standard,None,Spring,4.7,4411733
+123,Birthday,Pune,97,11,Standard,None,Autumn,4.7,60786
+124,Wedding,Mumbai,385,7,Basic,DJ,Autumn,4.3,2023388
+125,Wedding,Delhi,90,8,Standard,DJ,Winter,4.6,789359
+126,Wedding,Mumbai,533,5,Premium,None,Spring,4.0,3908666
+127,Conference,Bangalore,562,11,Standard,Comedian,Autumn,4.9,1321824
+128,Wedding,Goa,73,6,Premium,Live Band,Winter,4.3,884151
+129,Concert,Kolkata,511,10,Basic,None,Spring,4.0,4996444
+130,Conference,Bangalore,115,9,Premium,Live Band,Winter,4.7,456722
+131,Birthday,Hyderabad,162,10,Basic,None,Autumn,3.7,66600
+132,Concert,Kolkata,274,5,Premium,Magician,Autumn,3.8,3991266
+133,Conference,Pune,190,5,Standard,Live Band,Summer,3.7,365560
+134,Conference,Hyderabad,197,5,Premium,Magician,Spring,4.5,560711
+135,Concert,Kolkata,164,7,Premium,None,Autumn,4.6,2514666
+136,Concert,Delhi,550,8,Standard,DJ,Monsoon,3.8,5517600
+137,Wedding,Jaipur,475,11,Standard,Magician,Winter,4.0,3787333
+138,Corporate,Delhi,486,9,Basic,Comedian,Autumn,4.8,622080
+139,Corporate,Mumbai,476,6,Basic,None,Winter,3.9,536293
+140,Concert,Chennai,298,10,Premium,Live Band,Winter,4.7,7890046
+141,Concert,Kolkata,441,9,Premium,None,Spring,5.0,8085000
+142,Conference,Chennai,57,10,Standard,Comedian,Monsoon,4.8,118195
+143,Wedding,Chennai,255,4,Basic,None,Autumn,4.8,1360000
+144,Concert,Ahmedabad,496,10,Standard,DJ,Autumn,4.4,6401706
+145,Birthday,Pune,398,8,Premium,Live Band,Winter,4.5,504465
+146,Birthday,Hyderabad,184,6,Standard,Magician,Autumn,4.0,112853
+147,Birthday,Bangalore,340,8,Standard,None,Autumn,3.9,176800
+148,Concert,Bangalore,501,8,Standard,DJ,Autumn,4.1,6025360
+149,Corporate,Jaipur,126,6,Standard,Comedian,Autumn,5.0,201600
+150,Concert,Kolkata,498,11,Premium,Comedian,Autumn,3.7,7370400
+151,Birthday,Pune,411,9,Premium,Live Band,Winter,3.5,405177
+152,Concert,Jaipur,455,4,Basic,Magician,Spring,4.9,6267372
+153,Wedding,Ahmedabad,273,2,Premium,None,Monsoon,4.2,1719900
+154,Concert,Delhi,166,11,Premium,Comedian,Autumn,4.1,2722399
+155,Wedding,Kolkata,430,3,Basic,DJ,Autumn,4.6,2417555
+156,Birthday,Hyderabad,140,5,Premium,DJ,Summer,4.7,120633
+157,Birthday,Goa,421,7,Standard,Comedian,Summer,4.6,309856
+158,Concert,Ahmedabad,222,5,Basic,Comedian,Monsoon,4.7,2504160
+159,Conference,Bangalore,314,4,Basic,Comedian,Autumn,4.1,514959
+160,Corporate,Bangalore,74,11,Standard,None,Autumn,4.2,82880
+161,Concert,Hyderabad,599,10,Premium,Comedian,Winter,4.7,14639560
+162,Corporate,Ahmedabad,331,5,Basic,Magician,Spring,3.8,353581
+163,Birthday,Goa,558,6,Basic,None,Spring,3.8,259160
+164,Concert,Jaipur,346,10,Basic,Magician,Autumn,5.0,4421111
+165,Conference,Chennai,555,4,Premium,DJ,Summer,4.6,1404150
+166,Concert,Goa,443,3,Premium,Magician,Summer,4.2,7132299
+167,Corporate,Chennai,407,5,Premium,Magician,Spring,4.9,840929
+168,Corporate,Ahmedabad,273,11,Standard,Magician,Spring,4.0,368368
+169,Conference,Hyderabad,546,6,Basic,None,Spring,4.8,960960
+170,Concert,Bangalore,194,7,Basic,Comedian,Winter,4.8,3228160
+171,Conference,Mumbai,548,4,Basic,Magician,Summer,3.7,777246
+172,Conference,Pune,167,3,Standard,None,Summer,4.8,320640
+173,Birthday,Hyderabad,447,3,Basic,None,Spring,3.7,202143
+174,Corporate,Ahmedabad,180,9,Premium,Live Band,Spring,4.6,394680
+175,Birthday,Mumbai,538,10,Standard,Comedian,Autumn,4.9,421792
+176,Corporate,Ahmedabad,138,4,Standard,None,Autumn,3.6,132480
+177,Wedding,Jaipur,292,5,Standard,Live Band,Winter,4.0,2631893
+178,Concert,Goa,140,2,Basic,Live Band,Monsoon,4.3,1565200
+179,Corporate,Kolkata,70,8,Premium,Live Band,Monsoon,3.6,98280
+180,Conference,Ahmedabad,124,9,Basic,DJ,Monsoon,4.2,171864
+181,Birthday,Bangalore,241,9,Standard,Magician,Summer,4.9,181071
+182,Concert,Hyderabad,305,5,Basic,DJ,Winter,3.7,3586122
+183,Birthday,Pune,350,3,Standard,None,Summer,4.2,196000
+184,Wedding,Jaipur,100,8,Basic,Live Band,Spring,4.0,635555
+185,Birthday,Ahmedabad,143,4,Basic,None,Autumn,4.4,69911
+186,Conference,Chennai,246,9,Basic,Live Band,Summer,4.9,522340
+187,Conference,Jaipur,388,4,Standard,Comedian,Autumn,3.8,707712
+188,Corporate,Jaipur,31,10,Standard,Comedian,Spring,4.0,43648
+189,Wedding,Mumbai,560,3,Premium,Magician,Autumn,4.7,5044666
+190,Concert,Jaipur,239,9,Basic,None,Summer,3.7,1965111
+191,Conference,Hyderabad,57,3,Standard,DJ,Winter,3.7,120634
+192,Concert,Kolkata,168,2,Standard,Magician,Spring,3.7,2096864
+193,Conference,Jaipur,368,2,Premium,Live Band,Monsoon,3.7,796536
+194,Birthday,Hyderabad,280,3,Standard,Live Band,Winter,4.9,309157
+195,Wedding,Delhi,434,2,Basic,Magician,Autumn,4.5,2495500
+196,Concert,Bangalore,164,9,Standard,Magician,Winter,3.5,2288346
+197,Wedding,Pune,230,7,Basic,DJ,Winter,4.6,1681044
+198,Wedding,Delhi,406,7,Basic,DJ,Spring,4.8,2620053
+199,Concert,Mumbai,71,5,Premium,Comedian,Winter,3.9,1439880
+200,Birthday,Jaipur,191,5,Premium,Live Band,Monsoon,4.8,178776
+201,Concert,Ahmedabad,481,6,Standard,None,Spring,5.0,7054666
+202,Birthday,Goa,51,6,Premium,Live Band,Autumn,4.3,47515
+203,Wedding,Delhi,411,9,Basic,None,Monsoon,4.4,1808400
+204,Wedding,Mumbai,500,5,Standard,DJ,Spring,4.2,3388000
+205,Corporate,Jaipur,385,2,Premium,None,Winter,4.5,750750
+206,Wedding,Delhi,508,4,Standard,Comedian,Autumn,4.1,3332479
+207,Wedding,Bangalore,288,8,Basic,DJ,Spring,3.6,1393920
+208,Concert,Jaipur,542,7,Basic,Comedian,Monsoon,4.4,5723520
+209,Corporate,Chennai,124,8,Standard,Magician,Monsoon,4.7,160852
+210,Wedding,Bangalore,82,3,Basic,Live Band,Monsoon,3.6,383760
+211,Corporate,Mumbai,393,11,Premium,DJ,Autumn,4.4,634040
+212,Corporate,Delhi,527,4,Basic,Comedian,Autumn,4.2,590240
+213,Birthday,Hyderabad,344,6,Standard,Live Band,Summer,4.1,244469
+214,Corporate,Delhi,482,7,Standard,Comedian,Winter,4.1,822099
+215,Wedding,Mumbai,131,2,Premium,Magician,Winter,4.9,1599400
+216,Birthday,Pune,284,7,Basic,Magician,Summer,4.0,145155
+217,Birthday,Mumbai,506,8,Basic,Magician,Monsoon,4.2,244397
+218,Corporate,Bangalore,558,2,Premium,Magician,Autumn,4.3,919769
+219,Conference,Mumbai,232,5,Standard,Magician,Winter,3.5,485576
+220,Wedding,Jaipur,91,7,Basic,Magician,Winter,3.8,574412
+221,Wedding,Delhi,364,2,Standard,Magician,Monsoon,4.3,2159976
+222,Wedding,Chennai,195,3,Basic,Live Band,Summer,4.9,1380166
+223,Corporate,Hyderabad,92,10,Premium,Live Band,Monsoon,4.3,154284
+224,Wedding,Bangalore,346,2,Standard,Comedian,Summer,4.1,2269759
+225,Corporate,Jaipur,483,9,Standard,Comedian,Autumn,4.3,664608
+226,Birthday,Chennai,512,8,Standard,Comedian,Spring,4.8,432537
+227,Birthday,Kolkata,407,7,Premium,DJ,Monsoon,4.2,282051
+228,Corporate,Pune,379,11,Premium,Live Band,Autumn,4.8,788320
+229,Conference,Bangalore,168,8,Standard,None,Summer,3.7,248640
+230,Birthday,Chennai,353,3,Premium,Magician,Summer,4.4,297696
+231,Concert,Jaipur,228,8,Standard,Live Band,Winter,4.6,4726592
+232,Corporate,Kolkata,406,5,Basic,None,Autumn,4.7,424044
+233,Corporate,Goa,565,10,Basic,Comedian,Summer,4.0,602666
+234,Conference,Bangalore,230,6,Basic,None,Monsoon,3.6,248400
+235,Corporate,Delhi,92,2,Basic,DJ,Summer,4.4,98951
+236,Conference,Kolkata,224,4,Premium,Magician,Autumn,4.4,566720
+237,Conference,Ahmedabad,303,10,Premium,Comedian,Winter,3.7,874458
+238,Birthday,Chennai,74,2,Premium,DJ,Winter,3.6,63492
+239,Birthday,Mumbai,410,11,Basic,None,Summer,4.7,214111
+240,Wedding,Bangalore,492,7,Premium,DJ,Monsoon,3.5,2841300
+241,Conference,Pune,541,6,Standard,Comedian,Autumn,3.7,960816
+242,Conference,Chennai,523,5,Premium,None,Monsoon,4.2,988470
+243,Corporate,Pune,200,11,Standard,None,Monsoon,3.9,187200
+244,Concert,Mumbai,322,11,Basic,Live Band,Summer,3.9,3627866
+245,Wedding,Chennai,254,11,Standard,Live Band,Autumn,4.1,1805093
+246,Birthday,Jaipur,582,11,Premium,Magician,Winter,4.9,710573
+247,Wedding,Hyderabad,290,3,Premium,DJ,Summer,4.4,2339333
+248,Birthday,Jaipur,130,6,Premium,DJ,Spring,3.7,97001
+249,Birthday,Goa,583,6,Basic,None,Monsoon,4.8,279840
+250,Concert,Delhi,75,5,Premium,Live Band,Summer,4.2,1365000
+251,Concert,Chennai,504,10,Basic,None,Monsoon,4.5,4536000
+252,Wedding,Kolkata,399,9,Standard,DJ,Monsoon,4.3,2264724
+253,Corporate,Goa,156,4,Standard,None,Summer,4.8,199680
+254,Wedding,Kolkata,282,3,Premium,Magician,Monsoon,4.2,2043090
+255,Conference,Kolkata,118,3,Premium,DJ,Spring,4.9,349811
+256,Corporate,Delhi,433,6,Standard,Live Band,Autumn,4.2,630448
+257,Concert,Jaipur,328,9,Basic,Magician,Autumn,4.0,3352888
+258,Conference,Kolkata,39,2,Basic,DJ,Summer,3.6,51480
+259,Conference,Ahmedabad,240,9,Basic,Comedian,Spring,3.8,401280
+260,Corporate,Goa,81,7,Basic,Magician,Summer,4.8,99360
+261,Wedding,Chennai,586,8,Basic,DJ,Autumn,4.6,3294622
+262,Corporate,Bangalore,307,11,Basic,None,Spring,4.4,330195
+263,Wedding,Ahmedabad,181,6,Standard,Magician,Autumn,3.9,1082380
+264,Wedding,Goa,545,8,Basic,None,Autumn,3.9,2361666
+265,Corporate,Bangalore,199,9,Premium,Magician,Autumn,4.4,335646
+266,Birthday,Kolkata,389,2,Premium,Comedian,Winter,3.8,384332
+267,Concert,Ahmedabad,429,10,Premium,Comedian,Monsoon,4.0,6177600
+268,Corporate,Chennai,523,9,Standard,None,Winter,4.9,888402
+269,Birthday,Delhi,233,4,Basic,None,Autumn,4.1,106144
+270,Birthday,Delhi,577,9,Standard,Magician,Summer,5.0,442366
+271,Concert,Bangalore,154,9,Standard,Live Band,Spring,4.2,2466464
+272,Corporate,Ahmedabad,508,3,Standard,Magician,Winter,4.8,972108
+273,Corporate,Chennai,150,11,Premium,Magician,Summer,5.0,287500
+274,Conference,Goa,67,6,Basic,Live Band,Winter,4.1,154747
+275,Concert,Pune,376,9,Basic,Live Band,Spring,4.9,5854737
+276,Concert,Pune,149,2,Basic,Comedian,Monsoon,4.0,1430400
+277,Wedding,Pune,101,9,Standard,Comedian,Summer,4.9,791840
+278,Concert,Mumbai,212,2,Standard,Comedian,Monsoon,4.5,2747520
+279,Corporate,Bangalore,86,10,Basic,None,Summer,4.6,87911
+280,Birthday,Delhi,355,6,Basic,Comedian,Winter,3.6,221520
+281,Conference,Goa,527,2,Basic,Magician,Summer,4.3,868671
+282,Wedding,Delhi,357,6,Premium,Magician,Monsoon,3.7,2278552
+283,Wedding,Ahmedabad,319,2,Standard,Live Band,Spring,4.6,2797842
+284,Conference,Jaipur,527,2,Basic,Magician,Summer,4.2,848469
+285,Birthday,Delhi,287,4,Premium,Magician,Summer,4.5,247537
+286,Wedding,Bangalore,253,11,Standard,Live Band,Winter,3.9,2223364
+287,Wedding,Ahmedabad,46,3,Basic,Comedian,Spring,3.7,249626
+288,Birthday,Kolkata,130,6,Premium,DJ,Winter,4.3,133228
+289,Conference,Bangalore,302,3,Premium,Live Band,Winter,4.4,1122836
+290,Wedding,Goa,346,3,Basic,Live Band,Monsoon,3.7,1664260
+291,Conference,Chennai,561,9,Standard,None,Monsoon,4.1,828035
+292,Conference,Hyderabad,76,8,Basic,Live Band,Monsoon,3.6,106704
+293,Concert,Chennai,318,9,Standard,None,Summer,3.7,3137600
+294,Conference,Jaipur,36,5,Premium,Magician,Spring,4.6,104742
+295,Corporate,Delhi,505,6,Premium,DJ,Winter,3.7,890651
+296,Corporate,Bangalore,144,10,Standard,Live Band,Spring,4.9,269068
+297,Corporate,Mumbai,235,7,Standard,Live Band,Monsoon,4.0,293280
+298,Birthday,Kolkata,31,2,Premium,Magician,Autumn,3.9,23172
+299,Birthday,Hyderabad,219,3,Standard,Live Band,Summer,4.0,151840
+300,Wedding,Pune,403,3,Premium,None,Autumn,4.8,3224000
+301,Concert,Goa,214,2,Basic,DJ,Monsoon,3.8,1789040
+302,Wedding,Kolkata,255,3,Standard,Live Band,Spring,4.6,2236520
+303,Corporate,Pune,440,3,Basic,Magician,Monsoon,3.8,384560
+304,Wedding,Bangalore,408,9,Standard,Magician,Winter,4.0,3253120
+305,Birthday,Pune,304,8,Standard,Comedian,Winter,3.5,221312
+306,Corporate,Jaipur,88,10,Basic,Magician,Autumn,4.1,92204
+307,Birthday,Jaipur,114,4,Basic,None,Autumn,3.6,45600
+308,Wedding,Pune,566,10,Basic,Magician,Monsoon,4.3,2798869
+309,Concert,Bangalore,285,5,Standard,Live Band,Monsoon,4.3,3823559
+310,Conference,Delhi,331,4,Premium,Magician,Monsoon,3.9,668040
+311,Concert,Jaipur,41,10,Standard,DJ,Autumn,4.0,481066
+312,Birthday,Ahmedabad,435,3,Basic,Comedian,Autumn,4.1,237799
+313,Concert,Pune,432,8,Basic,Magician,Monsoon,3.9,3875040
+314,Corporate,Goa,78,3,Standard,Comedian,Spring,4.0,109824
+315,Wedding,Delhi,201,8,Premium,Comedian,Winter,3.8,1985880
+316,Conference,Ahmedabad,399,7,Basic,Comedian,Autumn,4.1,654359
+317,Corporate,Mumbai,205,5,Standard,Comedian,Summer,3.7,242719
+318,Concert,Goa,464,7,Basic,Live Band,Summer,4.8,6434133
+319,Concert,Bangalore,238,5,Basic,Live Band,Winter,4.0,3575288
+320,Corporate,Bangalore,550,10,Standard,Comedian,Winter,4.7,1075360
+321,Wedding,Goa,50,11,Basic,DJ,Summer,3.7,226111
+322,Birthday,Delhi,174,5,Premium,Magician,Winter,4.3,186426
+323,Corporate,Kolkata,48,11,Basic,None,Spring,4.0,46933
+324,Concert,Goa,130,3,Basic,Comedian,Autumn,4.1,1421333
+325,Birthday,Jaipur,186,6,Basic,Live Band,Spring,4.8,141856
+326,Wedding,Pune,393,4,Standard,None,Autumn,4.7,2462800
+327,Corporate,Bangalore,345,3,Basic,None,Autumn,3.6,276000
+328,Conference,Goa,577,4,Premium,DJ,Monsoon,4.3,1228144
+329,Birthday,Pune,69,2,Basic,Comedian,Autumn,4.2,38640
+330,Birthday,Mumbai,338,6,Basic,Live Band,Autumn,4.8,234346
+331,Corporate,Kolkata,139,7,Basic,DJ,Spring,4.3,160714
+332,Wedding,Mumbai,156,7,Premium,Magician,Winter,4.9,1904630
+333,Conference,Chennai,392,10,Basic,None,Autumn,3.6,470400
+334,Birthday,Pune,79,3,Basic,Live Band,Spring,3.5,43932
+335,Concert,Hyderabad,584,6,Standard,Comedian,Winter,4.6,11175424
+336,Wedding,Ahmedabad,574,2,Basic,None,Summer,4.2,2678666
+337,Birthday,Pune,409,6,Basic,Live Band,Spring,3.9,253443
+338,Birthday,Goa,256,5,Standard,None,Spring,3.9,146432
+339,Corporate,Kolkata,65,3,Basic,None,Monsoon,3.5,45500
+340,Corporate,Ahmedabad,439,3,Basic,DJ,Summer,3.7,397051
+341,Birthday,Delhi,149,4,Premium,Comedian,Autumn,4.1,122179
+342,Concert,Chennai,324,4,Premium,DJ,Autumn,4.1,4870799
+343,Conference,Mumbai,427,7,Premium,None,Monsoon,4.8,922319
+344,Concert,Bangalore,401,3,Premium,None,Monsoon,4.1,4932299
+345,Concert,Mumbai,474,3,Premium,Comedian,Monsoon,5.0,8532000
+346,Birthday,Bangalore,229,11,Standard,None,Winter,4.5,178620
+347,Wedding,Mumbai,581,9,Basic,Magician,Autumn,4.2,3118033
+348,Wedding,Kolkata,91,6,Premium,Magician,Summer,3.5,610458
+349,Birthday,Goa,157,8,Basic,Comedian,Winter,3.6,97968
+350,Wedding,Bangalore,540,5,Standard,DJ,Winter,3.8,3912480
+351,Concert,Delhi,495,8,Premium,DJ,Summer,3.8,6897000
+352,Corporate,Mumbai,543,6,Premium,DJ,Autumn,4.6,915860
+353,Corporate,Hyderabad,271,7,Standard,Live Band,Monsoon,4.2,355118
+354,Concert,Delhi,333,11,Premium,Live Band,Monsoon,3.5,4545450
+355,Wedding,Bangalore,345,3,Basic,None,Summer,4.2,1610000
+356,Concert,Kolkata,243,8,Standard,Comedian,Spring,4.3,3678048
+357,Wedding,Hyderabad,568,5,Basic,Magician,Monsoon,4.2,2743439
+358,Conference,Mumbai,560,7,Standard,Comedian,Winter,4.1,1432703
+359,Corporate,Delhi,117,4,Basic,None,Autumn,4.3,111799
+360,Conference,Mumbai,507,2,Basic,None,Winter,4.6,1010619
+361,Birthday,Delhi,545,4,Basic,Comedian,Monsoon,3.5,228900
+362,Wedding,Mumbai,226,9,Premium,None,Summer,4.6,1732666
+363,Birthday,Goa,397,2,Standard,Magician,Winter,4.9,387763
+364,Conference,Mumbai,32,8,Standard,Magician,Monsoon,4.9,64915
+365,Corporate,Chennai,316,11,Premium,Comedian,Spring,3.7,514448
+366,Wedding,Mumbai,39,3,Standard,Comedian,Monsoon,3.8,213408
+367,Birthday,Bangalore,240,7,Basic,Live Band,Spring,4.0,152533
+368,Concert,Hyderabad,389,3,Standard,DJ,Monsoon,4.3,4415928
+369,Corporate,Bangalore,247,5,Premium,Comedian,Winter,4.5,577980
+370,Birthday,Jaipur,443,11,Standard,None,Summer,4.1,242173
+371,Conference,Hyderabad,82,4,Basic,Magician,Monsoon,4.6,130133
+372,Wedding,Goa,332,6,Premium,None,Summer,4.0,2213333
+373,Conference,Delhi,179,7,Premium,DJ,Spring,4.8,519816
+374,Wedding,Goa,44,3,Basic,DJ,Summer,4.7,252755
+375,Corporate,Pune,111,7,Basic,None,Summer,4.2,103600
+376,Birthday,Delhi,348,5,Standard,DJ,Autumn,4.3,219472
+377,Wedding,Pune,343,11,Premium,None,Autumn,4.9,2801166
+378,Conference,Mumbai,470,3,Premium,Live Band,Spring,4.7,1579435
+379,Birthday,Goa,328,8,Premium,Live Band,Summer,4.2,298480
+380,Concert,Bangalore,206,8,Standard,Comedian,Spring,3.6,2610432
+381,Wedding,Chennai,140,7,Premium,Live Band,Spring,4.6,1534866
+382,Corporate,Jaipur,580,2,Standard,Magician,Summer,3.7,658106
+383,Birthday,Mumbai,344,4,Standard,Magician,Spring,4.1,237887
+384,Conference,Pune,67,6,Premium,None,Summer,3.9,130650
+385,Concert,Delhi,66,10,Standard,DJ,Summer,4.9,948640
+386,Conference,Kolkata,406,7,Premium,Magician,Summer,3.7,863764
+387,Concert,Ahmedabad,520,3,Standard,None,Autumn,4.0,5546666
+388,Corporate,Jaipur,598,6,Standard,Live Band,Autumn,4.9,1015802
+389,Concert,Hyderabad,539,9,Basic,Live Band,Spring,4.4,7536417
+390,Birthday,Jaipur,585,9,Basic,Comedian,Winter,4.3,436019
+391,Corporate,Chennai,47,2,Standard,Live Band,Winter,4.7,99552
+392,Concert,Pune,65,11,Standard,Magician,Winter,4.7,1217926
+393,Corporate,Mumbai,274,11,Premium,Magician,Autumn,3.6,378120
+394,Concert,Chennai,425,2,Premium,Magician,Autumn,3.7,6027916
+395,Wedding,Mumbai,35,2,Premium,None,Winter,4.4,333666
+396,Concert,Jaipur,362,8,Premium,Magician,Autumn,4.2,5828199
+397,Concert,Mumbai,341,7,Basic,Live Band,Spring,4.4,4767937
+398,Concert,Ahmedabad,33,3,Standard,Magician,Autumn,3.7,374440
+399,Corporate,Ahmedabad,236,6,Standard,Comedian,Winter,4.9,481062
+400,Conference,Delhi,502,7,Standard,Magician,Summer,4.3,992955
+401,Corporate,Pune,328,2,Standard,Magician,Monsoon,3.9,353059
+402,Conference,Bangalore,238,4,Premium,Magician,Spring,4.4,662354
+403,Corporate,Chennai,198,9,Basic,Comedian,Spring,4.9,284592
+404,Concert,Goa,466,9,Standard,Magician,Spring,4.9,7702669
+405,Birthday,Kolkata,527,6,Premium,DJ,Winter,4.7,590327
+406,Wedding,Mumbai,541,4,Basic,Live Band,Summer,3.9,3047633
+407,Concert,Goa,121,10,Basic,None,Monsoon,4.5,1089000
+408,Corporate,Delhi,330,9,Standard,Magician,Monsoon,4.1,373427
+409,Conference,Pune,106,10,Basic,None,Winter,4.5,206700
+410,Wedding,Bangalore,174,2,Basic,DJ,Monsoon,4.2,803880
+411,Corporate,Goa,511,8,Standard,None,Winter,4.0,708586
+412,Conference,Jaipur,74,7,Standard,Comedian,Autumn,4.0,142080
+413,Conference,Mumbai,187,7,Basic,Live Band,Autumn,3.6,291720
+414,Conference,Kolkata,593,3,Basic,Comedian,Autumn,3.8,901360
+415,Wedding,Bangalore,218,7,Standard,DJ,Summer,3.8,1214986
+416,Wedding,Ahmedabad,537,11,Standard,None,Summer,4.1,2935599
+417,Birthday,Chennai,43,4,Standard,DJ,Autumn,3.8,23965
+418,Corporate,Chennai,504,6,Basic,Comedian,Winter,4.8,838656
+419,Wedding,Ahmedabad,193,4,Premium,None,Autumn,4.1,1318833
+420,Conference,Hyderabad,373,3,Basic,Live Band,Summer,4.1,662696
+421,Concert,Pune,522,8,Basic,DJ,Winter,4.7,7796360
+422,Wedding,Kolkata,446,2,Basic,Live Band,Summer,4.5,2899000
+423,Conference,Delhi,100,2,Basic,Live Band,Monsoon,4.4,171600
+424,Concert,Hyderabad,462,6,Premium,Live Band,Spring,4.3,9469460
+425,Conference,Bangalore,171,3,Standard,Live Band,Winter,4.4,508622
+426,Corporate,Pune,477,9,Standard,Comedian,Spring,4.5,755567
+427,Conference,Delhi,400,3,Standard,Live Band,Winter,3.9,1054560
+428,Wedding,Kolkata,401,9,Standard,DJ,Monsoon,4.7,2487804
+429,Birthday,Kolkata,292,5,Standard,Live Band,Spring,4.3,239401
+430,Birthday,Pune,544,11,Basic,Comedian,Autumn,3.6,261120
+431,Corporate,Goa,130,10,Standard,None,Winter,3.8,171253
+432,Concert,Pune,563,6,Basic,None,Summer,4.2,5254666
+433,Birthday,Jaipur,200,9,Standard,DJ,Monsoon,3.9,102960
+434,Conference,Mumbai,42,9,Basic,DJ,Winter,4.3,86086
+435,Conference,Goa,406,10,Premium,Live Band,Autumn,4.6,1213939
+436,Wedding,Ahmedabad,496,2,Basic,None,Winter,3.5,2507555
+437,Conference,Mumbai,50,4,Premium,Magician,Winter,3.7,138287
+438,Birthday,Delhi,477,5,Premium,Comedian,Spring,3.8,398772
+439,Birthday,Goa,46,11,Basic,None,Spring,4.8,26986
+440,Concert,Ahmedabad,500,9,Standard,DJ,Summer,4.5,6600000
+441,Corporate,Pune,298,5,Basic,Live Band,Winter,3.8,425279
+442,Concert,Kolkata,519,11,Premium,None,Monsoon,3.5,5449500
+443,Conference,Mumbai,302,6,Premium,DJ,Spring,4.8,877008
+444,Concert,Hyderabad,182,2,Basic,Comedian,Monsoon,4.8,2096640
+445,Wedding,Delhi,101,10,Premium,Live Band,Winter,3.6,1024140
+446,Birthday,Mumbai,223,4,Premium,Comedian,Winter,4.0,231920
+447,Corporate,Chennai,577,2,Basic,None,Summer,3.7,474422
+448,Wedding,Hyderabad,561,7,Standard,Magician,Monsoon,4.6,3561227
+449,Birthday,Ahmedabad,554,2,Standard,None,Monsoon,4.2,279216
+450,Conference,Hyderabad,111,9,Premium,Magician,Autumn,3.5,223387
+451,Wedding,Bangalore,451,7,Basic,Magician,Monsoon,4.4,2282060
+452,Corporate,Ahmedabad,104,8,Premium,Comedian,Autumn,4.6,191359
+453,Wedding,Jaipur,203,9,Standard,Live Band,Summer,3.5,1231533
+454,Wedding,Hyderabad,569,5,Standard,Magician,Autumn,4.9,4275086
+455,Concert,Pune,289,8,Basic,DJ,Monsoon,4.2,2670360
+456,Wedding,Kolkata,522,9,Standard,Magician,Spring,4.4,3873936
+457,Corporate,Goa,546,5,Basic,Magician,Winter,4.5,816270
+458,Corporate,Pune,312,9,Basic,Comedian,Monsoon,4.3,321984
+459,Concert,Chennai,148,8,Basic,Comedian,Spring,4.1,1779946
+460,Birthday,Chennai,336,8,Premium,DJ,Spring,5.0,338800
+461,Corporate,Bangalore,496,6,Standard,Live Band,Monsoon,5.0,773760
+462,Concert,Ahmedabad,427,3,Premium,Live Band,Summer,3.7,6846233
+463,Wedding,Jaipur,268,5,Premium,None,Monsoon,4.9,1969800
+464,Birthday,Chennai,272,10,Premium,DJ,Autumn,4.9,244346
+465,Birthday,Goa,329,6,Premium,Magician,Summer,4.9,308985
+466,Concert,Mumbai,345,7,Standard,Magician,Monsoon,3.7,3523140
+467,Concert,Bangalore,571,11,Premium,Magician,Autumn,3.8,8317566
+468,Conference,Bangalore,81,3,Basic,Live Band,Spring,4.0,154440
+469,Conference,Jaipur,229,7,Standard,DJ,Summer,3.6,362736
+470,Birthday,Pune,278,4,Basic,Live Band,Autumn,4.7,188731
+471,Wedding,Delhi,240,4,Basic,Live Band,Monsoon,3.9,1216800
+472,Wedding,Bangalore,583,7,Premium,Magician,Winter,4.2,6101095
+473,Conference,Jaipur,65,11,Basic,Comedian,Spring,3.9,111540
+474,Conference,Delhi,110,2,Standard,Live Band,Autumn,4.0,228800
+475,Conference,Delhi,106,9,Premium,Magician,Autumn,4.3,262084
+476,Birthday,Goa,323,3,Standard,Magician,Winter,4.8,309046
+477,Concert,Ahmedabad,136,8,Basic,DJ,Autumn,4.4,1462755
+478,Conference,Mumbai,82,3,Basic,Magician,Monsoon,3.7,104672
+479,Conference,Pune,476,11,Standard,Live Band,Autumn,4.9,1212848
+480,Corporate,Bangalore,488,6,Basic,Live Band,Winter,4.6,843047
+481,Birthday,Kolkata,219,6,Standard,None,Monsoon,4.2,110376
+482,Conference,Hyderabad,376,10,Standard,Magician,Winter,4.0,899391
+483,Corporate,Goa,398,11,Basic,None,Summer,4.5,398000
+484,Wedding,Delhi,159,2,Basic,None,Autumn,4.8,848000
+485,Corporate,Chennai,228,5,Standard,Comedian,Monsoon,4.0,262655
+486,Conference,Kolkata,319,3,Premium,DJ,Summer,4.8,842160
+487,Wedding,Kolkata,121,4,Basic,Magician,Spring,4.6,782332
+488,Corporate,Ahmedabad,80,10,Basic,Magician,Spring,4.3,96702
+489,Corporate,Delhi,386,4,Basic,None,Summer,4.4,377422
+490,Wedding,Goa,94,9,Premium,Live Band,Autumn,4.8,977600
+491,Birthday,Goa,486,3,Premium,Magician,Summer,3.7,344655
+492,Conference,Hyderabad,486,5,Premium,DJ,Spring,4.2,1234926
+493,Corporate,Hyderabad,266,7,Premium,Magician,Autumn,4.8,489439
+494,Wedding,Ahmedabad,558,10,Premium,DJ,Autumn,3.9,3989700
+495,Concert,Ahmedabad,426,9,Basic,Live Band,Autumn,3.8,4676533
+496,Concert,Delhi,131,3,Basic,Magician,Spring,4.9,1804452
+497,Wedding,Mumbai,528,10,Basic,Live Band,Winter,4.5,4461600
+498,Conference,Delhi,79,7,Premium,Magician,Winter,4.8,283452
+499,Corporate,Pune,223,11,Standard,Live Band,Summer,4.8,371072
+500,Wedding,Ahmedabad,554,11,Standard,None,Spring,4.8,3900160
+501,Wedding,Kolkata,565,5,Premium,None,Autumn,4.2,3955000
+502,Concert,Jaipur,327,10,Premium,Magician,Monsoon,4.2,4738230
+503,Concert,Kolkata,84,6,Basic,DJ,Summer,4.7,965066
+504,Birthday,Pune,461,9,Premium,None,Winter,4.0,399533
+505,Corporate,Mumbai,292,7,Premium,Live Band,Winter,4.5,740220
+506,Concert,Chennai,45,11,Standard,None,Autumn,4.8,576000
+507,Conference,Mumbai,592,2,Standard,Comedian,Monsoon,4.6,1176422
+508,Conference,Goa,453,3,Premium,Magician,Monsoon,4.1,961152
+509,Wedding,Kolkata,549,7,Basic,None,Summer,3.5,2135000
+510,Birthday,Bangalore,503,6,Basic,Magician,Summer,5.0,321361
+511,Birthday,Pune,415,8,Standard,DJ,Spring,3.7,247727
+512,Birthday,Chennai,347,9,Standard,None,Monsoon,4.7,195708
+513,Wedding,Bangalore,329,2,Premium,Magician,Spring,4.1,2843930
+514,Wedding,Delhi,55,8,Basic,DJ,Spring,3.5,258805
+515,Wedding,Ahmedabad,441,4,Premium,Magician,Autumn,3.6,3042900
+516,Corporate,Hyderabad,162,2,Standard,None,Spring,4.5,213840
+517,Birthday,Chennai,93,9,Basic,Live Band,Monsoon,4.8,58032
+518,Conference,Pune,183,2,Basic,None,Summer,4.0,244000
+519,Concert,Kolkata,222,10,Standard,Magician,Spring,4.4,3295072
+520,Wedding,Chennai,221,3,Premium,Magician,Autumn,4.9,2075558
+521,Concert,Mumbai,139,3,Basic,DJ,Autumn,4.9,1664911
+522,Birthday,Chennai,253,2,Standard,DJ,Monsoon,4.8,160300
+523,Wedding,Delhi,428,4,Standard,Comedian,Autumn,4.9,3355520
+524,Wedding,Bangalore,220,3,Standard,None,Summer,5.0,1466666
+525,Corporate,Hyderabad,319,10,Basic,Comedian,Winter,4.4,486581
+526,Birthday,Kolkata,319,11,Premium,DJ,Summer,4.7,274871
+527,Corporate,Pune,380,4,Basic,Live Band,Winter,3.7,528031
+528,Wedding,Mumbai,83,10,Standard,None,Winter,4.8,690560
+529,Wedding,Kolkata,164,11,Standard,Magician,Autumn,3.6,905280
+530,Conference,Bangalore,245,4,Premium,DJ,Winter,4.0,700700
+531,Concert,Hyderabad,436,4,Standard,DJ,Summer,4.9,6266773
+532,Concert,Delhi,220,7,Standard,Live Band,Summer,4.2,3203200
+533,Concert,Ahmedabad,251,5,Premium,Magician,Spring,3.9,4127695
+534,Wedding,Delhi,222,9,Basic,None,Monsoon,3.5,777000
+535,Birthday,Jaipur,425,3,Premium,Magician,Monsoon,4.7,344568
+536,Corporate,Bangalore,145,7,Standard,None,Summer,5.0,193333
+537,Concert,Goa,595,7,Premium,None,Winter,4.5,11602500
+538,Conference,Pune,46,5,Standard,Magician,Spring,4.0,93103
+539,Concert,Jaipur,268,11,Premium,DJ,Summer,3.9,3832400
+540,Concert,Hyderabad,216,6,Standard,DJ,Winter,3.9,3212352
+541,Conference,Bangalore,386,9,Standard,None,Monsoon,4.9,680904
+542,Corporate,Bangalore,453,5,Basic,Comedian,Spring,3.7,491656
+543,Corporate,Jaipur,461,7,Basic,Comedian,Summer,4.2,516320
+544,Conference,Pune,97,5,Premium,Live Band,Spring,3.6,249678
+545,Conference,Bangalore,331,11,Premium,None,Winter,4.8,1032720
+546,Birthday,Chennai,99,10,Standard,Live Band,Monsoon,4.9,75675
+547,Corporate,Mumbai,490,10,Basic,Comedian,Winter,4.1,696453
+548,Birthday,Chennai,40,10,Basic,Live Band,Monsoon,4.9,25480
+549,Birthday,Mumbai,286,5,Basic,Live Band,Autumn,3.6,148720
+550,Wedding,Bangalore,536,11,Premium,Comedian,Summer,4.7,5038400
+551,Corporate,Delhi,360,6,Basic,None,Autumn,3.9,312000
+552,Wedding,Delhi,348,3,Premium,Magician,Autumn,3.8,2534600
+553,Corporate,Chennai,173,4,Basic,Comedian,Winter,4.2,251888
+554,Concert,Goa,276,4,Premium,Magician,Spring,4.2,4887960
+555,Birthday,Mumbai,40,11,Premium,Comedian,Winter,4.4,45760
+556,Concert,Goa,286,4,Premium,DJ,Winter,4.3,5862046
+557,Corporate,Hyderabad,368,8,Standard,Comedian,Autumn,3.8,447488
+558,Wedding,Kolkata,147,2,Premium,Comedian,Autumn,5.0,1470000
+559,Concert,Chennai,468,10,Premium,Magician,Spring,4.2,8288280
+560,Conference,Kolkata,48,11,Premium,Comedian,Monsoon,3.5,90720
+561,Conference,Kolkata,409,8,Standard,Live Band,Autumn,4.4,935792
+562,Wedding,Chennai,293,2,Standard,Comedian,Autumn,4.0,1875200
+563,Corporate,Delhi,425,3,Basic,Magician,Winter,4.4,621255
+564,Concert,Goa,50,10,Basic,None,Monsoon,4.5,450000
+565,Concert,Ahmedabad,105,6,Premium,DJ,Summer,5.0,1925000
+566,Conference,Ahmedabad,389,7,Premium,Magician,Autumn,4.2,939434
+567,Conference,Bangalore,266,2,Standard,None,Spring,3.8,444752
+568,Birthday,Pune,310,7,Standard,Magician,Monsoon,3.5,149729
+569,Wedding,Hyderabad,340,3,Standard,Magician,Monsoon,4.5,2111400
+570,Conference,Mumbai,396,10,Premium,None,Autumn,4.0,792000
+571,Corporate,Goa,496,8,Basic,Magician,Summer,3.5,443644
+572,Concert,Hyderabad,331,6,Basic,None,Autumn,4.0,2942222
+573,Conference,Pune,533,10,Basic,None,Summer,3.8,675133
+574,Conference,Hyderabad,521,7,Basic,DJ,Spring,5.0,1050683
+575,Birthday,Jaipur,477,4,Premium,Live Band,Summer,4.4,454740
+576,Corporate,Hyderabad,498,7,Basic,None,Winter,3.8,546693
+577,Conference,Ahmedabad,593,10,Premium,Comedian,Summer,3.7,1316460
+578,Conference,Hyderabad,273,5,Standard,Magician,Spring,4.9,676876
+579,Concert,Kolkata,576,5,Premium,DJ,Winter,4.8,13178880
+580,Concert,Delhi,477,4,Basic,DJ,Monsoon,3.6,3777840
+581,Corporate,Bangalore,311,10,Basic,Comedian,Summer,4.6,381493
+582,Birthday,Kolkata,125,9,Premium,None,Winter,4.4,119166
+583,Concert,Pune,233,3,Standard,Live Band,Monsoon,3.8,2762448
+584,Birthday,Hyderabad,357,3,Standard,Live Band,Winter,5.0,402220
+585,Conference,Hyderabad,406,8,Premium,DJ,Spring,3.6,884267
+586,Conference,Delhi,56,8,Basic,Live Band,Winter,3.9,123032
+587,Corporate,Delhi,372,3,Standard,Comedian,Summer,5.0,595200
+588,Concert,Bangalore,553,2,Basic,None,Monsoon,4.9,5419400
+589,Corporate,Bangalore,236,8,Premium,DJ,Winter,4.0,449973
+590,Conference,Jaipur,503,2,Basic,DJ,Summer,4.5,829950
+591,Concert,Bangalore,174,6,Standard,Live Band,Winter,4.0,3136640
+592,Concert,Chennai,138,9,Premium,Magician,Summer,3.6,1904400
+593,Birthday,Hyderabad,273,10,Premium,DJ,Spring,4.2,231231
+594,Corporate,Pune,219,5,Premium,Live Band,Monsoon,3.5,298935
+595,Corporate,Goa,491,2,Basic,Comedian,Spring,4.8,691328
+596,Birthday,Ahmedabad,179,7,Basic,Live Band,Summer,3.6,93080
+597,Wedding,Ahmedabad,530,6,Basic,Comedian,Monsoon,4.3,2734800
+598,Birthday,Hyderabad,456,2,Basic,DJ,Autumn,4.1,228506
+599,Wedding,Delhi,39,4,Basic,Comedian,Spring,4.1,234520
+600,Corporate,Delhi,466,3,Standard,Live Band,Monsoon,4.0,581568
+601,Birthday,Hyderabad,568,2,Basic,DJ,Winter,4.6,415144
+602,Corporate,Ahmedabad,457,5,Basic,None,Autumn,5.0,507777
+603,Conference,Ahmedabad,271,8,Standard,None,Monsoon,4.2,409752
+604,Wedding,Delhi,126,9,Basic,Live Band,Winter,4.4,1041040
+605,Wedding,Hyderabad,392,10,Standard,None,Monsoon,3.6,1693440
+606,Corporate,Hyderabad,400,6,Premium,Magician,Spring,4.1,691533
+607,Conference,Pune,135,2,Premium,None,Spring,4.4,326700
+608,Wedding,Bangalore,417,11,Premium,Live Band,Monsoon,4.5,3659175
+609,Conference,Goa,569,2,Standard,Live Band,Monsoon,3.6,958651
+610,Conference,Delhi,590,4,Standard,Comedian,Summer,4.6,1302720
+611,Birthday,Jaipur,197,2,Basic,Magician,Autumn,4.6,115792
+612,Wedding,Bangalore,111,5,Standard,Magician,Monsoon,4.7,719945
+613,Birthday,Goa,262,3,Basic,None,Spring,4.4,140897
+614,Birthday,Delhi,339,11,Standard,Comedian,Winter,4.3,303201
+615,Corporate,Bangalore,596,11,Basic,Magician,Winter,4.8,950421
+616,Birthday,Jaipur,116,3,Basic,Live Band,Autumn,3.5,58644
+617,Birthday,Bangalore,339,9,Standard,Magician,Autumn,4.2,218315
+618,Corporate,Goa,375,5,Basic,Live Band,Autumn,4.8,520000
+619,Conference,Kolkata,284,3,Basic,Comedian,Winter,3.6,531648
+620,Birthday,Mumbai,207,8,Basic,None,Autumn,3.7,85100
+621,Conference,Delhi,474,3,Premium,None,Monsoon,3.8,810540
+622,Corporate,Kolkata,153,7,Standard,DJ,Monsoon,3.6,145411
+623,Conference,Jaipur,414,11,Standard,Live Band,Spring,5.0,1184040
+624,Conference,Chennai,74,4,Basic,None,Winter,3.6,115440
+625,Conference,Pune,139,10,Basic,None,Monsoon,4.1,170969
+626,Concert,Kolkata,436,6,Premium,Comedian,Monsoon,3.5,5493600
+627,Conference,Kolkata,422,10,Standard,Live Band,Winter,4.6,1312251
+628,Conference,Bangalore,442,2,Basic,None,Spring,5.0,810333
+629,Corporate,Hyderabad,218,9,Standard,Magician,Winter,4.7,408473
+630,Wedding,Jaipur,287,9,Standard,Magician,Winter,3.8,2173929
+631,Conference,Kolkata,124,4,Standard,Comedian,Spring,4.6,301171
+632,Wedding,Ahmedabad,431,3,Premium,Magician,Winter,4.9,5262150
+633,Corporate,Goa,312,10,Standard,DJ,Summer,4.2,384384
+634,Corporate,Mumbai,398,5,Standard,Magician,Autumn,3.5,427186
+635,Conference,Ahmedabad,262,8,Standard,Magician,Winter,3.7,579701
+636,Concert,Delhi,230,7,Premium,Magician,Spring,4.0,3879333
+637,Wedding,Pune,365,3,Basic,None,Monsoon,3.7,1350500
+638,Wedding,Ahmedabad,242,5,Basic,DJ,Monsoon,4.6,1224520
+639,Concert,Ahmedabad,32,7,Basic,DJ,Monsoon,4.8,337920
+640,Birthday,Ahmedabad,454,4,Premium,DJ,Autumn,4.2,349580
+641,Corporate,Pune,48,9,Basic,Comedian,Spring,4.5,63360
+642,Birthday,Delhi,52,4,Standard,Magician,Summer,3.6,28704
+643,Wedding,Kolkata,511,7,Basic,None,Autumn,3.7,2100777
+644,Birthday,Ahmedabad,196,4,Premium,DJ,Autumn,5.0,179666
+645,Wedding,Chennai,295,9,Standard,DJ,Winter,4.8,2699840
+646,Concert,Bangalore,413,8,Premium,Magician,Monsoon,3.9,5556914
+647,Wedding,Bangalore,481,7,Premium,Magician,Summer,3.6,3318900
+648,Wedding,Goa,521,8,Basic,Magician,Autumn,3.7,2463172
+649,Concert,Hyderabad,482,10,Premium,Live Band,Autumn,4.3,8981266
+650,Wedding,Delhi,52,7,Basic,Live Band,Spring,4.0,330488
+651,Conference,Bangalore,520,11,Standard,None,Spring,4.2,960960
+652,Birthday,Jaipur,312,8,Basic,Comedian,Spring,4.8,219648
+653,Concert,Mumbai,561,11,Standard,DJ,Summer,3.7,6088720
+654,Conference,Delhi,184,6,Premium,DJ,Autumn,4.3,435160
+655,Birthday,Pune,134,4,Premium,Comedian,Monsoon,4.4,106128
+656,Conference,Jaipur,597,11,Basic,DJ,Spring,4.0,963160
+657,Conference,Pune,533,4,Premium,None,Autumn,3.7,986050
+658,Concert,Mumbai,268,11,Standard,Comedian,Winter,4.5,5016960
+659,Corporate,Pune,429,2,Premium,Comedian,Winter,4.8,1070784
+660,Birthday,Bangalore,102,8,Premium,Comedian,Autumn,4.1,83639
+661,Corporate,Hyderabad,581,7,Basic,Live Band,Winter,4.1,894610
+662,Concert,Goa,171,2,Standard,Magician,Summer,4.9,2569560
+663,Wedding,Bangalore,60,10,Premium,DJ,Winter,4.1,586300
+664,Corporate,Hyderabad,81,4,Premium,None,Winter,4.6,161460
+665,Corporate,Chennai,470,10,Standard,None,Winter,4.7,765786
+666,Corporate,Chennai,274,2,Basic,Magician,Autumn,3.7,259082
+667,Wedding,Ahmedabad,69,5,Standard,Live Band,Autumn,4.3,514279
+668,Corporate,Kolkata,86,4,Premium,Magician,Summer,4.6,151646
+669,Concert,Goa,589,8,Premium,None,Summer,3.7,7264333
+670,Conference,Mumbai,436,5,Premium,DJ,Autumn,3.7,887260
+671,Conference,Mumbai,213,10,Standard,DJ,Winter,4.2,511711
+672,Wedding,Pune,257,3,Basic,DJ,Monsoon,4.6,1300420
+673,Birthday,Jaipur,422,7,Standard,DJ,Autumn,4.2,259952
+674,Corporate,Goa,343,7,Standard,Magician,Autumn,4.7,494377
+675,Conference,Ahmedabad,569,5,Basic,Live Band,Monsoon,4.3,954213
+676,Concert,Delhi,156,11,Standard,None,Winter,4.5,2433600
+677,Wedding,Jaipur,232,10,Premium,DJ,Winter,3.8,2101146
+678,Conference,Goa,498,3,Premium,None,Autumn,4.1,1020900
+679,Corporate,Ahmedabad,595,9,Basic,None,Autumn,3.9,515666
+680,Conference,Mumbai,318,11,Premium,Live Band,Spring,3.8,864006
+681,Birthday,Ahmedabad,503,6,Basic,Live Band,Spring,4.8,383621
+682,Conference,Hyderabad,80,6,Basic,Live Band,Spring,4.0,152533
+683,Wedding,Goa,509,5,Basic,Live Band,Summer,3.6,2646800
+684,Birthday,Hyderabad,84,9,Premium,Live Band,Winter,4.6,108835
+685,Corporate,Jaipur,107,8,Basic,Live Band,Winter,3.7,148682
+686,Birthday,Hyderabad,268,3,Standard,DJ,Monsoon,4.3,152116
+687,Concert,Ahmedabad,43,6,Premium,Magician,Autumn,4.8,791200
+688,Wedding,Jaipur,159,7,Premium,None,Spring,4.9,1428350
+689,Wedding,Jaipur,290,5,Basic,None,Summer,4.3,1385555
+690,Wedding,Ahmedabad,539,4,Standard,Magician,Monsoon,4.9,3644718
+691,Concert,Chennai,460,3,Basic,None,Winter,4.2,5581333
+692,Corporate,Delhi,343,4,Basic,DJ,Autumn,4.6,385684
+693,Corporate,Kolkata,385,9,Premium,Comedian,Autumn,4.7,723800
+694,Conference,Goa,311,8,Premium,Magician,Autumn,3.7,661652
+695,Conference,Hyderabad,382,3,Premium,DJ,Monsoon,4.7,888723
+696,Concert,Jaipur,456,8,Basic,Comedian,Monsoon,3.6,3939840
+697,Conference,Jaipur,341,11,Premium,Live Band,Autumn,4.6,1019589
+698,Corporate,Delhi,539,5,Premium,Comedian,Spring,3.9,924924
+699,Wedding,Hyderabad,66,10,Basic,Live Band,Autumn,4.5,429000
+700,Corporate,Goa,395,10,Basic,DJ,Summer,4.0,386222
+701,Conference,Pune,444,10,Premium,Magician,Summer,3.9,995670
+702,Conference,Pune,282,11,Basic,DJ,Autumn,3.6,372240
+703,Wedding,Mumbai,570,3,Premium,None,Winter,4.6,5681000
+704,Wedding,Hyderabad,540,5,Premium,None,Autumn,4.0,3600000
+705,Conference,Delhi,499,10,Basic,Live Band,Summer,3.5,756816
+706,Wedding,Hyderabad,43,7,Standard,DJ,Monsoon,4.8,272448
+707,Wedding,Goa,298,10,Standard,None,Autumn,4.6,1827733
+708,Birthday,Mumbai,81,4,Standard,Live Band,Summer,4.7,65988
+709,Concert,Mumbai,426,3,Standard,Comedian,Monsoon,4.5,5520960
+710,Birthday,Jaipur,207,6,Standard,None,Winter,4.3,154283
+711,Birthday,Jaipur,327,3,Premium,None,Summer,3.6,196200
+712,Conference,Jaipur,466,10,Premium,Live Band,Winter,4.4,1732588
+713,Birthday,Bangalore,220,7,Premium,Magician,Autumn,3.6,151800
+714,Wedding,Hyderabad,564,2,Basic,DJ,Monsoon,3.7,2295480
+715,Conference,Jaipur,599,9,Standard,None,Summer,4.4,1054240
+716,Wedding,Goa,175,5,Basic,Magician,Summer,4.1,916805
+717,Birthday,Kolkata,31,6,Premium,Magician,Summer,4.9,29114
+718,Wedding,Jaipur,47,7,Standard,None,Spring,4.8,330880
+719,Corporate,Hyderabad,237,9,Premium,Live Band,Summer,3.8,390260
+720,Concert,Mumbai,145,4,Basic,DJ,Spring,4.3,1676522
+721,Conference,Goa,72,6,Standard,Comedian,Summer,4.1,141695
+722,Conference,Chennai,463,6,Premium,DJ,Winter,4.3,1423493
+723,Concert,Delhi,223,4,Standard,Live Band,Autumn,3.9,3014960
+724,Corporate,Goa,305,9,Basic,Live Band,Spring,3.8,368304
+725,Conference,Goa,337,4,Premium,Magician,Summer,4.3,833232
+726,Concert,Bangalore,239,4,Premium,Live Band,Monsoon,4.8,4474080
+727,Birthday,Hyderabad,79,9,Standard,Live Band,Winter,4.8,85446
+728,Wedding,Hyderabad,437,6,Basic,Live Band,Monsoon,3.6,2045160
+729,Corporate,Chennai,198,5,Basic,None,Autumn,3.8,167200
+730,Birthday,Chennai,470,8,Basic,DJ,Autumn,3.7,212544
+731,Conference,Jaipur,512,6,Premium,Comedian,Spring,4.5,1520640
+732,Wedding,Hyderabad,157,3,Premium,Live Band,Summer,5.0,1700833
+733,Concert,Delhi,157,8,Premium,DJ,Summer,4.8,2763200
+734,Conference,Ahmedabad,63,11,Basic,Comedian,Summer,4.7,118440
+735,Birthday,Hyderabad,352,4,Standard,Comedian,Monsoon,3.7,187545
+736,Conference,Jaipur,104,2,Standard,DJ,Winter,4.2,249849
+737,Birthday,Chennai,125,4,Basic,None,Monsoon,4.4,55000
+738,Concert,Chennai,313,4,Standard,Magician,Winter,4.4,5490437
+739,Birthday,Kolkata,39,3,Standard,Magician,Winter,4.6,35760
+740,Birthday,Jaipur,155,11,Basic,None,Spring,4.4,83355
+741,Wedding,Delhi,232,3,Premium,Comedian,Autumn,3.6,1670400
+742,Concert,Bangalore,242,8,Basic,Live Band,Summer,4.9,3425644
+743,Wedding,Goa,112,4,Basic,Comedian,Monsoon,3.8,510720
+744,Corporate,Delhi,327,4,Standard,Comedian,Monsoon,4.8,452044
+745,Wedding,Goa,58,5,Premium,None,Spring,4.3,457233
+746,Concert,Jaipur,545,3,Standard,Live Band,Summer,4.1,7746266
+747,Corporate,Hyderabad,46,5,Basic,Comedian,Summer,3.7,45386
+748,Birthday,Mumbai,319,9,Standard,Comedian,Spring,3.9,218961
+749,Concert,Pune,405,2,Premium,Live Band,Autumn,3.5,6142500
+750,Wedding,Kolkata,531,10,Basic,Comedian,Winter,4.3,3957719
+751,Concert,Jaipur,341,8,Standard,None,Autumn,3.6,3273600
+752,Conference,Ahmedabad,558,11,Standard,DJ,Monsoon,5.0,1104840
+753,Conference,Jaipur,132,5,Standard,Magician,Summer,3.9,236808
+754,Wedding,Chennai,110,7,Basic,Comedian,Summer,4.0,586666
+755,Conference,Kolkata,342,6,Basic,Live Band,Spring,4.0,652080
+756,Conference,Chennai,120,5,Standard,None,Spring,4.3,227040
+757,Birthday,Mumbai,316,4,Standard,None,Monsoon,4.5,170640
+758,Birthday,Ahmedabad,30,9,Premium,Magician,Spring,4.7,29727
+759,Concert,Pune,310,7,Premium,None,Monsoon,4.0,3720000
+760,Concert,Hyderabad,141,2,Basic,Comedian,Monsoon,4.3,1455120
+761,Wedding,Hyderabad,494,8,Standard,Live Band,Spring,4.1,3861762
+762,Birthday,Delhi,314,10,Premium,None,Spring,3.9,224510
+763,Birthday,Pune,509,2,Basic,Live Band,Autumn,3.5,257327
+764,Concert,Ahmedabad,92,6,Premium,Magician,Winter,4.9,2246486
+765,Birthday,Mumbai,542,4,Standard,Magician,Spring,4.5,411378
+766,Concert,Jaipur,369,2,Standard,Magician,Winter,3.7,5442996
+767,Concert,Hyderabad,231,7,Basic,Comedian,Autumn,4.4,2710400
+768,Wedding,Pune,294,7,Premium,Live Band,Winter,3.8,3146780
+769,Corporate,Bangalore,321,3,Basic,Live Band,Spring,3.8,387625
+770,Concert,Ahmedabad,146,11,Basic,DJ,Winter,4.2,1948613
+771,Birthday,Chennai,161,2,Basic,DJ,Autumn,4.5,88550
+772,Corporate,Goa,383,10,Premium,Magician,Spring,4.0,645993
+773,Wedding,Jaipur,236,9,Premium,DJ,Summer,5.0,2163333
+774,Corporate,Pune,547,3,Standard,Magician,Summer,3.9,654211
+775,Wedding,Hyderabad,506,9,Basic,Live Band,Spring,4.7,3778695
+776,Corporate,Pune,568,10,Standard,Magician,Winter,4.2,951059
+777,Corporate,Ahmedabad,197,10,Standard,DJ,Autumn,3.9,225368
+778,Corporate,Kolkata,152,8,Basic,None,Autumn,4.9,165511
+779,Conference,Chennai,521,11,Basic,Magician,Summer,4.7,938668
+780,Concert,Ahmedabad,50,9,Standard,Magician,Spring,3.5,590333
+781,Wedding,Bangalore,518,2,Premium,Comedian,Summer,3.9,4040400
+782,Conference,Mumbai,535,6,Standard,DJ,Autumn,4.4,1035760
+783,Wedding,Jaipur,396,11,Basic,DJ,Summer,4.3,2081199
+784,Corporate,Chennai,216,4,Basic,DJ,Autumn,3.9,205920
+785,Birthday,Bangalore,268,6,Premium,Live Band,Monsoon,3.7,193362
+786,Conference,Pune,528,2,Premium,Live Band,Autumn,4.4,1510080
+787,Concert,Kolkata,484,6,Premium,Magician,Spring,4.3,8775726
+788,Birthday,Hyderabad,489,9,Premium,DJ,Monsoon,4.8,387287
+789,Wedding,Kolkata,334,8,Basic,Comedian,Spring,4.1,2008453
+790,Concert,Bangalore,474,7,Basic,Magician,Winter,4.6,7243773
+791,Corporate,Jaipur,283,9,Standard,Live Band,Monsoon,4.9,432650
+792,Corporate,Mumbai,208,11,Premium,DJ,Monsoon,4.7,322608
+793,Corporate,Ahmedabad,48,9,Standard,None,Monsoon,4.4,50688
+794,Corporate,Delhi,539,7,Premium,Live Band,Autumn,3.5,817483
+795,Conference,Chennai,300,2,Basic,Magician,Monsoon,4.3,445049
+796,Concert,Ahmedabad,412,5,Basic,None,Spring,4.4,4431288
+797,Birthday,Jaipur,337,9,Standard,Magician,Spring,4.7,267151
+798,Concert,Goa,360,7,Basic,Live Band,Winter,3.6,4867200
+799,Birthday,Jaipur,585,5,Basic,Comedian,Spring,4.6,394680
+800,Corporate,Delhi,147,11,Basic,Comedian,Spring,4.8,206976
+801,Birthday,Kolkata,481,8,Premium,DJ,Autumn,4.4,388006
+802,Corporate,Delhi,175,10,Standard,Live Band,Autumn,4.3,260866
+803,Corporate,Delhi,88,8,Standard,Live Band,Winter,3.8,150702
+804,Wedding,Delhi,345,9,Basic,Comedian,Summer,5.0,2300000
+805,Wedding,Mumbai,557,7,Basic,Comedian,Spring,4.6,3757893
+806,Conference,Goa,102,9,Basic,Comedian,Summer,4.2,171360
+807,Concert,Delhi,441,5,Premium,None,Monsoon,4.5,5953500
+808,Conference,Goa,73,7,Standard,None,Monsoon,3.5,91980
+809,Concert,Chennai,84,6,Premium,Magician,Summer,4.1,1320199
+810,Concert,Hyderabad,428,2,Standard,DJ,Summer,4.4,5524053
+811,Birthday,Chennai,116,6,Basic,Magician,Monsoon,4.2,56027
+812,Concert,Bangalore,509,5,Standard,Comedian,Spring,4.7,8420896
+813,Wedding,Delhi,267,11,Standard,Magician,Winter,4.3,2288546
+814,Birthday,Mumbai,561,10,Standard,Comedian,Monsoon,3.6,290822
+815,Concert,Delhi,409,5,Standard,None,Autumn,3.8,4144533
+816,Conference,Ahmedabad,125,2,Basic,DJ,Winter,4.0,238333
+817,Birthday,Kolkata,279,7,Standard,Comedian,Spring,3.5,171864
+818,Wedding,Pune,593,3,Basic,Live Band,Monsoon,4.5,3469050
+819,Birthday,Jaipur,544,5,Standard,Magician,Monsoon,4.9,367852
+820,Corporate,Goa,358,2,Basic,None,Autumn,5.0,397777
+821,Conference,Delhi,114,2,Premium,None,Autumn,4.1,233699
+822,Concert,Ahmedabad,229,5,Standard,Comedian,Autumn,3.9,2857920
+823,Wedding,Chennai,171,5,Premium,Live Band,Spring,4.5,1833975
+824,Concert,Delhi,144,7,Standard,None,Spring,3.6,1520640
+825,Corporate,Delhi,285,8,Premium,DJ,Monsoon,3.5,329175
+826,Wedding,Jaipur,537,8,Standard,Magician,Spring,3.8,3441812
+827,Corporate,Mumbai,432,11,Basic,None,Monsoon,3.7,319680
+828,Concert,Ahmedabad,351,2,Premium,Comedian,Spring,4.9,7567560
+829,Birthday,Delhi,224,9,Basic,DJ,Autumn,3.7,101297
+830,Corporate,Hyderabad,370,8,Premium,Magician,Winter,4.2,774410
+831,Conference,Ahmedabad,433,3,Basic,Comedian,Winter,3.9,878124
+832,Conference,Jaipur,427,9,Basic,DJ,Monsoon,4.8,676367
+833,Wedding,Pune,282,7,Basic,Magician,Spring,3.9,1545830
+834,Conference,Jaipur,278,6,Premium,Magician,Spring,3.7,650589
+835,Corporate,Hyderabad,416,9,Premium,None,Winter,4.9,883306
+836,Conference,Hyderabad,182,9,Basic,Comedian,Winter,3.9,369096
+837,Concert,Chennai,271,10,Standard,Live Band,Summer,3.7,3476026
+838,Concert,Bangalore,159,2,Premium,DJ,Winter,4.8,3637920
+839,Conference,Chennai,162,6,Standard,Live Band,Monsoon,4.1,310845
+840,Conference,Ahmedabad,90,9,Premium,Magician,Autumn,3.7,191475
+841,Corporate,Ahmedabad,104,8,Premium,Live Band,Spring,4.8,237952
+842,Birthday,Delhi,233,9,Basic,None,Autumn,4.5,116500
+843,Concert,Hyderabad,484,10,Standard,Live Band,Autumn,4.8,8053760
+844,Birthday,Bangalore,319,3,Premium,Comedian,Summer,4.8,306240
+845,Conference,Mumbai,406,10,Premium,Live Band,Winter,4.5,1543814
+846,Wedding,Goa,125,10,Premium,None,Winter,4.5,1218750
+847,Wedding,Ahmedabad,242,6,Premium,Magician,Autumn,3.6,1669800
+848,Concert,Ahmedabad,38,9,Standard,Magician,Autumn,3.8,442826
+849,Birthday,Ahmedabad,502,7,Standard,None,Winter,3.8,330650
+850,Wedding,Kolkata,564,5,Basic,Magician,Autumn,4.8,3459199
+851,Conference,Kolkata,232,3,Basic,None,Spring,3.9,331760
+852,Conference,Pune,532,10,Basic,None,Summer,3.9,691600
+853,Wedding,Goa,73,6,Standard,Comedian,Winter,4.3,652912
+854,Wedding,Mumbai,562,9,Standard,Magician,Autumn,4.9,4222493
+855,Wedding,Mumbai,596,9,Basic,Comedian,Autumn,4.5,3576000
+856,Concert,Hyderabad,344,11,Standard,Magician,Spring,4.5,5221920
+857,Conference,Bangalore,75,3,Premium,DJ,Autumn,4.8,198000
+858,Corporate,Jaipur,462,5,Premium,None,Spring,4.4,745360
+859,Birthday,Jaipur,98,11,Basic,Magician,Summer,4.3,53845
+860,Conference,Delhi,479,2,Standard,DJ,Spring,4.5,1043262
+861,Wedding,Pune,121,10,Premium,Magician,Winter,3.6,1085370
+862,Corporate,Goa,322,5,Premium,DJ,Autumn,4.2,495880
+863,Conference,Pune,474,7,Premium,Live Band,Summer,4.2,1294020
+864,Wedding,Delhi,220,7,Premium,Magician,Monsoon,3.8,1442099
+865,Wedding,Ahmedabad,329,4,Standard,Live Band,Winter,3.8,2817117
+866,Corporate,Jaipur,98,11,Basic,Magician,Autumn,3.6,90160
+867,Birthday,Chennai,280,2,Premium,Magician,Winter,5.0,348833
+868,Birthday,Goa,309,2,Standard,Magician,Winter,4.6,283332
+869,Wedding,Ahmedabad,338,11,Standard,DJ,Summer,4.1,2032506
+870,Concert,Hyderabad,60,4,Standard,DJ,Spring,4.2,813120
+871,Concert,Kolkata,471,5,Standard,None,Autumn,4.2,5275200
+872,Wedding,Jaipur,451,11,Standard,None,Autumn,3.7,2224933
+873,Corporate,Pune,55,2,Basic,Comedian,Spring,4.1,66146
+874,Corporate,Bangalore,578,5,Standard,Live Band,Autumn,4.9,981829
+875,Concert,Jaipur,599,3,Basic,Live Band,Monsoon,4.9,7631260
+876,Birthday,Goa,409,5,Standard,Live Band,Summer,4.2,297752
+877,Wedding,Ahmedabad,88,11,Premium,Magician,Monsoon,4.3,652739
+878,Wedding,Ahmedabad,431,5,Premium,Magician,Autumn,4.1,3386941
+879,Conference,Kolkata,539,10,Premium,Live Band,Autumn,4.8,1681680
+880,Wedding,Chennai,532,4,Standard,Live Band,Winter,4.6,5514357
+881,Corporate,Pune,89,11,Basic,Magician,Winter,4.4,130098
+882,Concert,Hyderabad,253,11,Standard,Live Band,Autumn,4.0,3508266
+883,Corporate,Jaipur,394,8,Basic,DJ,Monsoon,4.1,355388
+884,Corporate,Kolkata,459,10,Basic,Comedian,Spring,4.9,659736
+885,Birthday,Chennai,289,8,Premium,DJ,Winter,3.9,268625
+886,Conference,Pune,387,8,Premium,None,Spring,4.1,872685
+887,Birthday,Jaipur,340,7,Standard,None,Monsoon,4.4,179520
+888,Conference,Chennai,110,3,Standard,Live Band,Summer,3.8,217360
+889,Birthday,Bangalore,51,6,Basic,None,Summer,3.6,20400
+890,Concert,Hyderabad,115,7,Basic,DJ,Summer,3.7,1040111
+891,Wedding,Pune,165,2,Basic,None,Spring,5.0,1008333
+892,Concert,Kolkata,212,2,Premium,DJ,Autumn,3.8,2953866
+893,Wedding,Bangalore,160,5,Standard,DJ,Spring,4.9,1264853
+894,Conference,Mumbai,483,9,Basic,DJ,Spring,4.8,935088
+895,Wedding,Chennai,257,9,Standard,Comedian,Autumn,3.7,1521440
+896,Conference,Pune,389,8,Standard,Live Band,Winter,4.5,1183338
+897,Corporate,Bangalore,65,5,Premium,None,Summer,4.1,88833
+898,Corporate,Delhi,152,2,Basic,Comedian,Spring,4.1,182805
+899,Conference,Bangalore,552,5,Standard,Live Band,Spring,3.9,1231401
+900,Wedding,Goa,361,3,Standard,Live Band,Autumn,4.9,3066093
+901,Conference,Ahmedabad,450,3,Premium,None,Autumn,4.7,1057500
+902,Wedding,Bangalore,197,10,Standard,Comedian,Autumn,4.3,1355360
+903,Conference,Mumbai,32,2,Premium,Comedian,Summer,4.3,82560
+904,Concert,Ahmedabad,218,11,Premium,Comedian,Winter,4.6,5214560
+905,Corporate,Mumbai,198,11,Basic,Magician,Summer,4.7,237819
+906,Wedding,Bangalore,289,3,Standard,Comedian,Winter,4.6,2765152
+907,Birthday,Pune,442,7,Premium,Magician,Summer,4.8,406639
+908,Conference,Mumbai,133,3,Premium,Magician,Spring,3.6,302841
+909,Concert,Jaipur,287,3,Premium,Live Band,Autumn,4.0,4974666
+910,Concert,Hyderabad,388,8,Premium,Comedian,Summer,4.6,7139199
+911,Concert,Pune,524,5,Standard,Comedian,Summer,4.6,7713279
+912,Wedding,Chennai,337,6,Standard,None,Monsoon,3.9,1577160
+913,Conference,Delhi,243,10,Standard,Live Band,Summer,3.6,454896
+914,Birthday,Hyderabad,396,7,Premium,DJ,Winter,4.0,377520
+915,Concert,Delhi,47,2,Premium,DJ,Spring,4.6,872006
+916,Wedding,Goa,298,9,Standard,Magician,Summer,4.4,2010506
+917,Concert,Jaipur,88,8,Premium,DJ,Spring,3.8,1348746
+918,Concert,Chennai,519,5,Standard,None,Monsoon,4.8,5978880
+919,Conference,Goa,561,3,Premium,None,Autumn,4.1,1150049
+920,Concert,Bangalore,537,6,Basic,None,Summer,4.4,5250666
+921,Wedding,Mumbai,244,11,Basic,Magician,Spring,4.6,1577595
+922,Conference,Jaipur,475,8,Premium,None,Summer,4.3,1021249
+923,Wedding,Mumbai,419,7,Standard,Magician,Winter,4.2,3507868
+924,Conference,Delhi,94,5,Premium,Comedian,Autumn,4.3,242519
+925,Concert,Jaipur,379,11,Standard,Comedian,Winter,3.5,5518240
+926,Concert,Delhi,45,9,Premium,None,Monsoon,3.7,499500
+927,Concert,Goa,400,7,Basic,Magician,Autumn,4.6,4702222
+928,Birthday,Mumbai,168,3,Basic,Live Band,Monsoon,3.6,78624
+929,Concert,Mumbai,330,6,Premium,Comedian,Autumn,4.2,5544000
+930,Corporate,Delhi,451,5,Basic,Live Band,Monsoon,4.5,527670
+931,Birthday,Jaipur,148,4,Premium,Comedian,Monsoon,3.7,98568
+932,Conference,Chennai,589,10,Premium,Live Band,Monsoon,4.7,1619455
+933,Conference,Mumbai,79,3,Standard,DJ,Autumn,4.3,149468
+934,Concert,Chennai,497,5,Standard,None,Winter,4.4,7580906
+935,Concert,Jaipur,411,11,Premium,Magician,Spring,3.9,6758895
+936,Concert,Delhi,319,5,Premium,None,Autumn,3.8,4040666
+937,Wedding,Goa,90,11,Standard,Comedian,Spring,4.5,712800
+938,Birthday,Chennai,500,3,Premium,Comedian,Spring,3.9,429000
+939,Birthday,Goa,64,3,Basic,None,Summer,3.7,26311
+940,Birthday,Hyderabad,274,9,Standard,DJ,Winter,4.4,229867
+941,Wedding,Bangalore,168,4,Standard,Comedian,Summer,4.6,1236480
+942,Corporate,Ahmedabad,268,7,Premium,Live Band,Spring,4.1,523761
+943,Corporate,Chennai,330,8,Premium,Live Band,Autumn,3.9,557700
+944,Corporate,Pune,232,6,Premium,Magician,Summer,4.1,364626
+945,Conference,Kolkata,192,9,Standard,Comedian,Summer,4.3,396288
+946,Conference,Hyderabad,186,6,Standard,None,Winter,4.9,473928
+947,Corporate,Bangalore,147,11,Standard,None,Autumn,4.9,192080
+948,Corporate,Mumbai,507,10,Premium,Magician,Monsoon,4.3,752134
+949,Birthday,Chennai,478,8,Basic,None,Monsoon,4.5,215100
+950,Wedding,Hyderabad,98,4,Basic,None,Summer,4.0,435555
+951,Conference,Mumbai,148,3,Premium,Live Band,Winter,4.2,525252
+952,Corporate,Mumbai,443,4,Standard,None,Monsoon,4.6,489071
+953,Conference,Pune,185,2,Premium,Magician,Autumn,4.5,478687
+954,Birthday,Goa,236,2,Basic,DJ,Winter,5.0,187488
+955,Wedding,Pune,394,9,Premium,None,Spring,3.8,2744866
+956,Concert,Chennai,289,6,Standard,Live Band,Summer,3.7,3706906
+957,Concert,Chennai,117,11,Basic,Live Band,Spring,4.9,1821820
+958,Corporate,Pune,429,7,Standard,DJ,Spring,4.9,678277
+959,Wedding,Kolkata,394,5,Standard,Live Band,Monsoon,4.6,2827344
+960,Conference,Ahmedabad,96,10,Basic,None,Monsoon,4.3,123839
+961,Concert,Ahmedabad,192,5,Standard,DJ,Autumn,4.4,2478080
+962,Conference,Kolkata,570,9,Premium,Live Band,Monsoon,4.6,1533869
+963,Conference,Mumbai,493,7,Basic,DJ,Monsoon,4.9,797181
+964,Wedding,Chennai,290,3,Premium,Comedian,Summer,4.0,2320000
+965,Corporate,Kolkata,187,10,Standard,Comedian,Summer,4.3,257311
+966,Birthday,Delhi,89,11,Standard,DJ,Summer,4.8,62656
+967,Wedding,Kolkata,192,10,Premium,Magician,Monsoon,4.9,1622880
+968,Corporate,Ahmedabad,72,10,Premium,Live Band,Monsoon,4.3,120743
+969,Corporate,Bangalore,501,10,Standard,Magician,Monsoon,4.6,636069
+970,Corporate,Goa,405,11,Standard,Live Band,Monsoon,4.3,543348
+971,Corporate,Pune,65,8,Standard,Magician,Summer,3.8,75746
+972,Corporate,Kolkata,85,10,Standard,DJ,Winter,4.3,139377
+973,Concert,Pune,363,6,Premium,Magician,Spring,4.9,7500185
+974,Concert,Ahmedabad,528,4,Premium,None,Summer,4.9,8624000
+975,Wedding,Pune,49,4,Standard,Comedian,Monsoon,4.8,338688
+976,Concert,Bangalore,298,2,Basic,None,Autumn,4.5,2980000
+977,Birthday,Goa,119,10,Premium,Magician,Summer,4.9,111760
+978,Conference,Bangalore,424,7,Basic,Live Band,Winter,4.6,1098725
+979,Wedding,Hyderabad,335,9,Basic,None,Monsoon,4.2,1407000
+980,Corporate,Kolkata,522,10,Premium,Magician,Monsoon,4.9,882441
+981,Birthday,Mumbai,598,8,Standard,Comedian,Winter,4.9,609481
+982,Birthday,Ahmedabad,413,6,Basic,Live Band,Monsoon,4.5,241605
+983,Birthday,Ahmedabad,395,7,Standard,DJ,Spring,4.8,305888
+984,Conference,Mumbai,338,11,Basic,Comedian,Spring,4.5,669240
+985,Wedding,Delhi,58,5,Premium,DJ,Autumn,4.7,499766
+986,Concert,Kolkata,402,3,Basic,None,Spring,4.9,4815066
+987,Concert,Mumbai,230,5,Standard,DJ,Autumn,4.1,2766133
+988,Concert,Ahmedabad,450,7,Premium,Live Band,Summer,4.6,8970000
+989,Wedding,Kolkata,97,6,Standard,Live Band,Winter,4.5,983580
+990,Birthday,Hyderabad,578,3,Premium,DJ,Summer,4.5,476850
+991,Concert,Goa,357,10,Basic,Live Band,Monsoon,4.9,4548180
+992,Conference,Chennai,323,6,Premium,Magician,Autumn,3.8,705754
+993,Birthday,Delhi,572,10,Basic,Comedian,Summer,3.6,274560
+994,Corporate,Hyderabad,573,5,Basic,DJ,Spring,4.7,724144
+995,Concert,Goa,43,6,Standard,Magician,Summer,4.7,619773
+996,Birthday,Goa,594,10,Basic,DJ,Autumn,3.6,261360
+997,Corporate,Goa,556,5,Basic,None,Monsoon,4.6,511519
+998,Concert,Chennai,496,4,Premium,Magician,Spring,3.5,7320133
+999,Concert,Pune,140,10,Basic,Comedian,Spring,3.9,1601600
+1000,Birthday,Delhi,570,4,Basic,Magician,Summer,3.5,254916
